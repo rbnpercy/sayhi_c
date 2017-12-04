@@ -1,0 +1,13 @@
+name: sayhi_c
+version: 0.1.0
+
+authors:
+  - Robin Percy <robin@percy.pw>
+
+targets:
+  sayhi_c:
+    main: src/sayhi_c.cr
+
+crystal: 0.22.0
+
+license: MIT
